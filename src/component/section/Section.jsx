@@ -25,7 +25,7 @@ function Section() {
             style={{ display: "flex", justifyContent: "center" }}
           >
             <img
-              src="image.png"
+              src="/image.png"
               alt="الشيخ مالك عبدالرحمن فهمي"
               className="profile-image"
             />
